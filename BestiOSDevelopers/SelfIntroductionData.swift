@@ -242,11 +242,7 @@ let people: [SelfIntroduction] = [
     SelfIntroduction(
         name: "박현준",
         trainingPurpose: "iOS 개발자가 되기 위한 훈련 참여함",
-<<<<<<< HEAD
-        hobby: "유튜브 보기",
-=======
         hobby: "유튜브 보기, 티비보기",
->>>>>>> b853dd08eb93f0859269b1a2c499d77ae68da921
         mbti: "ENTJ",
         strength: "끈기와 실행력, 헤헤",
         sns: nil,
