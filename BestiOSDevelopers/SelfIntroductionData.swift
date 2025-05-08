@@ -362,10 +362,10 @@ let people: [SelfIntroduction] = [
     SelfIntroduction(
         name: "전광호",
         trainingPurpose: "iOS 개발자가 되기 위한 훈련 참여",
-        hobby: "음악 감상, 영화 시청",
+        hobby: "음악 감상, 독서",
         mbti: "ISFP",
         // 주석추가 1
-        strength: "끈기와 실행력",
+        strength: "끈기와 실행력, 끈기끈기",
         sns: nil,
         // 주석추가2
         etc: "열심히 수료하고 취업하겠습니다!, 화이팅",
